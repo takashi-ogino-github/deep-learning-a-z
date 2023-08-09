@@ -2,3 +2,4 @@ __MACOSX/
 *.Rhistory
 dataset/
 *.mp4
+.DS_Store
